@@ -1,6 +1,6 @@
 <!-- # ⭕ Tic-Tac-Toe -->
 
-## olkanovich
+## olkanovich discord
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
